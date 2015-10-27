@@ -13,6 +13,14 @@ Copy `src` folder to your application and use `app.less` as the entrance file.
 
 Add as many variables as you want.
 
+### _mixins.less
+
+Common mixins.
+
+### _starter.less
+
+All Normalization settings.
+
 ### _grid.less
 
 Grid system:
@@ -45,6 +53,7 @@ Text sizes, colors and aligns:
     .text-xs
     .text-light
     .text-lighter
+    .text-lightest
     .text-primary
     .text-left
     .text-center

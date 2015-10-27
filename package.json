@@ -1,6 +1,6 @@
 {
   "name": "mobile-css-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CSS starter for mobile projects",
   "main": "src/app.less",
   "keywords": [
