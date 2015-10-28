@@ -15,7 +15,7 @@ Add as many variables as you want.
 
 ### _mixins.less
 
-Common mixins.
+Common mixins (including flex box).
 
 ### _starter.less
 
