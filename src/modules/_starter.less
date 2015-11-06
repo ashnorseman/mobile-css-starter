@@ -104,5 +104,7 @@ table {
 }
 
 textarea {
-  resize: vertical;
+  height: @control-base-size + @font-base * 1.5 * 2;          // 默认显示 3 行
+  padding: (@control-base-size - (@font-base * 1.5)) / 2 0;
+  resize: none;
 }
